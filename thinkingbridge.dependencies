@@ -19,10 +19,10 @@
   },
   {
     "remote": "github",
-    "repository": "ThinkingBridge/android_device_sony_rhine-common",
+    "repository": "ThinkingBridge/platform_device_sony_rhine-common",
     "target_path": "device/sony/rhine-common",
     "revision": "kitkat"
-  }
+  },
   {
     "remote": "github",
     "repository": "SlimRoms/proprietary_vendor_sony",
